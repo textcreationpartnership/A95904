@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A few things of great weight offered to the consideration of all sober people, and to friends of truth more particularly, with relation to their early care and Christian endeavour to season the minds of their children while they are young, with the sense and savour of the spirit of truth / by Richard Vickris.</title>
+            <author>Vickris, Richard, d. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95904</idno>
+            <idno type="STC">Wing V338</idno>
+            <idno type="STC">ESTC R42492</idno>
+            <idno type="EEBO-CITATION">36282107</idno>
+            <idno type="OCLC">ocm 36282107</idno>
+            <idno type="VID">150344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2242:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A few things of great weight offered to the consideration of all sober people, and to friends of truth more particularly, with relation to their early care and Christian endeavour to season the minds of their children while they are young, with the sense and savour of the spirit of truth / by Richard Vickris.</title>
+                  <author>Vickris, Richard, d. 1700.</author>
+               </titleStmt>
+               <extent>44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound.</note>
+                  <note>Reproduction of original in the Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian education --  Quaker authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150344:1" rendition="simple:additions"/>
+            <p>A FEW THINGS OF Great Weight, OFFERED To the Conſideration of all Sober People, and to Friends of Truth more Particularly: With Relation to their Early Care and Chriſtian Endeavour to Seaſon the Minds of their Children whilſt they are Young; with the Senſe and Savour of the Spirit of Truth.</p>
+            <q>O Lord, I know that the Way of Man is not in himſelf, it is not in Man that walketh to direct his Steps, <bibl>Jer. 10.23.</bibl>
+            </q>
+            <p>By <hi>Richard Vickris.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> next Door to the <hi>Meeting-Houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden Hall-Street,</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150344:2"/>
+            <pb n="3" facs="tcp:150344:2"/>
+            <head>A few Things of great Weight, <hi>&amp;c.</hi>
+            </head>
+            <p>THis Way of Man is the Way that God hath appointed him to Walk in, and it is a High Way of Holineſs and Happineſs in God, that is, in his Divine Nature, VVill and Spirit, and is Oppo<g ref="char:EOLhyphen"/>ſed to the Low VVay of Sin and Imperfection that is in Man's ſelf, Reſpecting his Cor<g ref="char:EOLhyphen"/>rupt Fleſhly VVill, Mind and Spirit: In each of theſe VVays there is a Law or Power, the one of <hi>Spirit</hi> and <hi>Life,</hi> the o<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:150344:3"/> of <hi>Sin</hi> and <hi>Death;</hi> under this Law of <hi>Sin</hi> and <hi>Death</hi> all Men have been Concluded, for as much as all have Sinned and fallen ſhort of the Glory of God; that is, they have choſen their own VVay, and followed the Thoughts and Devices of their own Hearts, which hath proved to be a VVay of Folly and Miſery, and ſtill continues ſo to be, whatever otherwiſe Man may think in his Earthly Senſual VViſdom, being in Captivity under the Law and Power of <hi>Sin</hi> and <hi>Death</hi> that Rules in him; in this State many are whole and at eaſe in a Self-ſecurity, having given up themſelves to be Subjects to that Kingdom, ſeeks not, nor
+<pb n="5" facs="tcp:150344:3"/> deſires any other. But there are others, who, having heard the Call of God, are awakened to a ſight and ſenſe of their Condi<g ref="char:EOLhyphen"/>tion, and oftentimes Laments themſelves, and crys and ſeeks for a Deliverer; and of theſe there is ſome hopes, becauſe a Deliverer is come out of <hi>Zion</hi> to turn away Ungodlineſs from <hi>Jacob;</hi> that is, from him that wreſtleth for a Bleſſing: This Deliverer is Chriſt the Lord, of whoſe coming all the Holy <hi>Patriarchs, Prophets</hi> and <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> bore-witneſs, who ſaid, <hi>The whole needs no Phyſician, but thoſe that are Sick; I am not come to Call the Righteous, but Sinners to Repentance.</hi>
+            </p>
+            <pb n="6" facs="tcp:150344:4"/>
+            <p>Now this Deliverer (to wit) Chriſt, is that Way of Man ſpoken of by the Prophet <hi>Je<g ref="char:EOLhyphen"/>remiah</hi> (viz.) <hi>That High Way of Holineſs and Happineſs in God,</hi>
+               <note place="margin">Iſa. 35.8.</note> which leads from the Earthly to the Heavenly, from the Kingdom of Satan to his own Bleſſed Kingdom with his Father; and this Way is his Divine Nature Manifeſted as a Law and Pow<g ref="char:EOLhyphen"/>er of Spirit and Life in us.</p>
+            <p>Now though we are awa<g ref="char:EOLhyphen"/>kened to a ſenſe of our Condi<g ref="char:EOLhyphen"/>tion, and groans and longs for Deliverance, we cannot obtain it in our own Way and Will, for the VVay of Man is not in himſelf, it is not in Man that walketh to direct his Steps, we
+<pb n="7" facs="tcp:150344:4"/> muſt wait to feel our Deliverer to work in us, and for us, of his own good VVill and Plea<g ref="char:EOLhyphen"/>ſure, Directing us by his Law, and Inabling us by the Power of his Spirit, to work out our Salvation with Fear and Trem<g ref="char:EOLhyphen"/>bling; ſo that it is not of him that wills, nor of him that runs, but of God that ſheweth Mer<g ref="char:EOLhyphen"/>cy; we are Exhorted ſo to run, that we may obtain according to the Apoſtles ſaying, <hi>Though all run, but one Receiveth the Price,</hi> 1 Cor. 9.24. This one is the True Believer (Perſonated in one, <hi>viz.</hi> Chriſt his Head) whoſe Hope, Truſt and Con<g ref="char:EOLhyphen"/>fidence is in his Helper and Deliverer; it is written in <hi>I<g ref="char:EOLhyphen"/>ſaiah</hi> 28.16. <hi>Thus ſaith the
+<pb n="8" facs="tcp:150344:5"/> Lord, Behold I lay in</hi> Zion <hi>for a Foundation, a Stone, a Tried Stone,</hi> a <hi>Precious Corner Stone, a ſure Foundation; he that Be<g ref="char:EOLhyphen"/>lieveth ſhall not make haſte.</hi> This ſure Foundation, precious Cor<g ref="char:EOLhyphen"/>ner Stone, is our Bleſſed Lord Chriſt; happy are all they that come to him, build upon him, and abide with him that never fails.</p>
+            <p>Thus we may obſerve two ways known by their differing Powers and Natures, the One Chriſt, the Kingdom of God in our Minds; the other, Satan in our Fleſhly VVills or Mem<g ref="char:EOLhyphen"/>bers; the one Light, the other Darkneſs, the one High and Ho<g ref="char:EOLhyphen"/>ly, the other Low and Senſual.</p>
+            <pb n="9" facs="tcp:150344:5"/>
+            <p>Now all that have heard the Call of God, and have believed therein, and are awakened un<g ref="char:EOLhyphen"/>to Righteouſneſs, that is, have a Spiritual Senſe and Feeling of God, muſt come out of this low ſenſual VVay of Self and Self-working; and inſtead of being led and acted by their own Natural Powers of Fleſhly VVill and VViſdom in which Satan Builds, they muſt come down to this ſure Foundation, <hi>viz. Chriſt in them, and feel the Power of his Life to Lead and Act them;</hi> that is, they muſt incline their Minds Inwardly unto his Divine Word of Faith and Law of Spirit and Life in them, which is Quick and Pow<g ref="char:EOLhyphen"/>erful, <hi>&amp;c. and is a Diſcerner of
+<pb n="10" facs="tcp:150344:6"/> the Thoughts and Intents of the Heart,</hi> whereby their Souls were firſt quickened and made alive, and Faith wrought in them, by which Faith the Spiri<g ref="char:EOLhyphen"/>tual Senſes of the Soul are Exerciſed towards God, where<g ref="char:EOLhyphen"/>by they ſee him that is Inviſi<g ref="char:EOLhyphen"/>ble, by which the Holy An<g ref="char:EOLhyphen"/>cients endured, and did all thoſe mighty things made mention of in the Author to the <hi>Hebrews, Having an Eye to the Recompence of Reward;</hi> and this Faith being thus wrought in them, by the Ope<g ref="char:EOLhyphen"/>ration of God, muſt be daily kept to, and in, that they may know and witneſs a dividing betwixt Soul and Spirit, be<g ref="char:EOLhyphen"/>twixt the Soul and its old Na<g ref="char:EOLhyphen"/>tural
+<pb n="11" facs="tcp:150344:6"/> and Senſual Power of working in its Fleſhly VVill and Wiſdom in which the Devil Rules; and its New and Heaven<g ref="char:EOLhyphen"/>ly Power; which it receives by Faith through the Impreſſion of the Divine Nature of Chriſt therein; which as the Soul comes to behold, it will be Af<g ref="char:EOLhyphen"/>fected with its Beauty; and keeping in the Love thereof, will witneſs a being changed into its likeneſs from one De<g ref="char:EOLhyphen"/>gree of Glory to another; and ſo the old comes to be put off, and the new Man put on, which is Created after the Image of God in Righteouſneſs and true Holineſs; theſe things are of great VVeight and Con<g ref="char:EOLhyphen"/>cern to all that are true Tra<g ref="char:EOLhyphen"/>vellers
+<pb n="12" facs="tcp:150344:7"/> towards God's Heavenly Kingdom of Reſt and Peace, to Experience in themſelves; for want whereof many have been held in ſore <hi>Bondage</hi> and <hi>Capti<g ref="char:EOLhyphen"/>vity,</hi> under hard Labour and Ser<g ref="char:EOLhyphen"/>vitude many Years, and have not been able to attain to what their Souls have long Deſired and Travelled for <hi>(viz.)</hi> Spiri<g ref="char:EOLhyphen"/>tual Freedom and Deliverance from <hi>Sin</hi> and <hi>Death,</hi> becauſe they have not been Rightly Ex<g ref="char:EOLhyphen"/>erciſed in ſtriving, whilſt out of the Faith, which alone can give the Victory, <hi>and without which 'tis impoſſible to pleaſe God;</hi> ſuch inſtead of attaining to the divine Knowledge of the Truth, have attained only to a Notion and Comprehenſion thereof in
+<pb n="13" facs="tcp:150344:7"/> their Earthly Minds, who have not waited to Receive it by Faith into a Spiritual renewed Mind and Heart; which Faith is the Gift of God, and is wrought by him through the Quickening of the Soul to an Exerciſe of Spiritual Senſe and Feeling of the Power and Vir<g ref="char:EOLhyphen"/>tue of his Truth, by which alone the Soul is made Capa<g ref="char:EOLhyphen"/>ble of receiving the true Know<g ref="char:EOLhyphen"/>ledge thereof, and a fit Veſſel to retain it. So here is a dif<g ref="char:EOLhyphen"/>ference between a Living and Spiritual Knowledge, and a Dead, Natural, Fleſhly Know<g ref="char:EOLhyphen"/>ledge: The one gives Victory, the other leads into, and leaves in <hi>Bondage;</hi> the one is attained by Faith into a New and Spi<g ref="char:EOLhyphen"/>ritual
+<pb n="14" facs="tcp:150344:8"/> Life, the other is gathered by a Fleſhly Senſe and Com<g ref="char:EOLhyphen"/>prehenſion into the old corrupt Nature, which is not the pro<g ref="char:EOLhyphen"/>per Organ of Reception of the True and Saving Knowledge of God, and the things that appertain to his Heavenly Kingdom, <hi>It's the old Bottle that is not fit for the New Wine of the Kingdom; Make the Tree Good,</hi> ſaid Chriſt, <hi>and his Fruit Good; or elſe make the Tree Cor<g ref="char:EOLhyphen"/>rupt, and its Fruits Corrupt.</hi> Of one of theſe all are, and ac<g ref="char:EOLhyphen"/>cordingly muſt be Denomina<g ref="char:EOLhyphen"/>ted, and the Tree is known by its Fruits; we were all by Nature of the Corrupt Tree, or Wild Olive, and cannot be made good, but by being cut
+<pb n="15" facs="tcp:150344:8"/> off and Grafted anew, contra<g ref="char:EOLhyphen"/>ry to Nature, into the good Olive Tree, which is Chriſt Jeſus, the Root and Off-ſpring of <hi>David,</hi> the Bright and Morn<g ref="char:EOLhyphen"/>ing Star, the <hi>Alpha</hi> and <hi>Omega,</hi> the Foundation of the Prophets and Apoſtles: Who, being thus inwardly Experienced and Acknowledged to be laid by God in <hi>Zion,</hi> a Sure, Elect and Precious Corner Stone, the Way, the Truth and Life, ac<g ref="char:EOLhyphen"/>cording to his own Bleſſed Te<g ref="char:EOLhyphen"/>ſtimony of himſelf in <hi>John</hi> 14.6. <hi>and that no Man cometh to the Father but by him:</hi> The Compleating of all our Happi<g ref="char:EOLhyphen"/>neſs conſiſts in coming unto him, abiding with him, or building upon him; for as
+<pb n="16" facs="tcp:150344:9"/> Chriſt ſaid, <hi>Without me ye can do nothing,</hi> John 15.5. <hi>It is not in Man that Walketh to direct his Steps,</hi> Jer. 10.23. And if a Man cannot direct his own Steps aright, how ſhall he di<g ref="char:EOLhyphen"/>rect the Steps of others, which leads me to Expreſs ſomething that Lives and Reſts upon my Spirit to Friends of Truth, Concerning the Diſcharge of our Chriſtian Care and Duty towards others, more particu<g ref="char:EOLhyphen"/>larly our Tender Off-ſpring, from a true Senſe of the ſtrict Relation that Exerciſe neceſſa<g ref="char:EOLhyphen"/>rily hath to a Spiritual Ability from God, to a right Perfor<g ref="char:EOLhyphen"/>mance thereof.</p>
+            <p>And therefore, Friends, more particularly you who are Pa<g ref="char:EOLhyphen"/>rents
+<pb n="17" facs="tcp:150344:9"/> of Children, a few things hath opened in my Mind, to Recommend to your Conſider<g ref="char:EOLhyphen"/>ation, touching this great Duty of Educating our Children in the Love and Fear of God, by the Power and Influence of his Bleſſed Truth: VVe know God hath ſo Manifeſted his Light and Truth in us, that the Devil hath not been able to Extinguiſh it, or Obliterate the Certain Senſe and Experi<g ref="char:EOLhyphen"/>mental Knowledge of its Te<g ref="char:EOLhyphen"/>ſtimony in our ſelves: And therefore he hath, and doth uſe his utmoſt Endeavour to do it in our Off-ſpring, and deprive them of the Benefit of our Faith, by leſſening our Zeal for the Truth; and thereby
+<pb n="18" facs="tcp:150344:10"/> our Spiritual Love and Care for them, and by this means he hopes to obtain his end in the ſucceeding Generations, <hi>viz.</hi> to lay waſte the Bleſſed Teſti<g ref="char:EOLhyphen"/>mony thereof in the Earth; but our God beholds his ſecret VVorkings, and doth, and will open the Eyes of his Children and People, to ſee and eſcape his Snares, and enable them to Reſiſt and Diſappoint all his VVicked Purpoſes againſt his Flock and Heritage, who hath all Power and Sufficiency to do whatſoever pleaſeth him, and will Accompliſh his VVill in all thoſe that Love and Fear him, now henceforth and for ever. Such is the Power and Prevalency of the Truth, that
+<pb n="19" facs="tcp:150344:10"/> as in the Days of Chriſt's Ap<g ref="char:EOLhyphen"/>pearance in the Fleſh, the De<g ref="char:EOLhyphen"/>vils were ſubject, and made to confeſs to him; ſo hath it been in our Day: But the Righte<g ref="char:EOLhyphen"/>ous then were Exhorted, not to Rejoyce therein, but rather that their Names were written in the Lamb's Book of Life; and ſo it is now: And this is <hi>the Souls only Happineſs, For<g ref="char:EOLhyphen"/>treſs, and Security from Danger for ever.</hi>
+            </p>
+            <p>Now hereinto we muſt all come and abide for our ſelves, and hereby (as we ought) we ſhall be enabled to be helpful to others, eſpecially our tender Off ſpring that <hi>God</hi> hath Bleſ<g ref="char:EOLhyphen"/>ſed us with, whom he Loves and Delights to do good unto;
+<pb n="20" facs="tcp:150344:11"/> and for that end hath beſtowed them upon us, and given us the Knowledge of his Truth, that we may Miniſter it to them, and preſent them to God thereby; that is, by the Power and Virtue of his Truth, to ſeaſon their Hearts and Minds with the Love and Fear of God, as is ſaid before, in their tender Years, that as they grow up they may be fitted and pre<g ref="char:EOLhyphen"/>pared to meet the Lord, and to know him in themſelves, by the ſweet Influences of him through us their dear Parents, and ſo ſhall we be Inſtrumen<g ref="char:EOLhyphen"/>tal to bring them unto Chriſt, who ſaid, <hi>Suffer little Children to come unto me, and forbid them not, for of ſuch is the Kingdom of Heaven,</hi> Mar. 10.14.</p>
+            <pb n="21" facs="tcp:150344:11"/>
+            <p>Now this is a Spiritual Work, and therefore requires a Spiritual Capacity and Abi<g ref="char:EOLhyphen"/>lity, Rightly to perform it, and this Capacity is not of Man, nor in the Will and Time of Man, but of God; and there<g ref="char:EOLhyphen"/>fore to be ſought for, and waited for from him, from whom every Good and Perfect Gift cometh, and in whoſe Hand are the Times and Sea<g ref="char:EOLhyphen"/>ſons: And unleſs we are thus Exerciſed and Qualified, what<g ref="char:EOLhyphen"/>ever other Abilities of VViſ<g ref="char:EOLhyphen"/>dom and Knowledge we have attained to, and are exerciſed in, we ſhall fall ſhort of a right Performance of this great Duty towards our Children, of be<g ref="char:EOLhyphen"/>getting them to God; it was
+<pb n="22" facs="tcp:150344:12"/> a right Concluſion in <hi>Solomon,</hi> Expreſſed in his Prayer to God for Wiſdom; <hi>viz. Tho' a Man be never ſo Perfect amongſt the Children of Men, yet if thy Wiſdom be not with him, he ſhall be nothing Regarded,</hi> Book of <hi>Wiſ.</hi> 9.6. All our Power and Sufficiency to act and do for God, is of him, and from him, how then can we do the Work of the Spirit with<g ref="char:EOLhyphen"/>out the Spirit of God? It is the Spirit of God that begets to him, and if we are not begot<g ref="char:EOLhyphen"/>ten thereby, or do not continue therein, how can we perform the Works thereof which are Spiritual, ſurely none can? Fleſh and Spirit are contrary each to other, and have differ<g ref="char:EOLhyphen"/>ing Powers as well as Fruits
+<pb n="23" facs="tcp:150344:12"/> and Effects; and the Tree is known by its Fruits, if the Tree be Corrupt, the Fruits will be Evil; and though the Cry ſhould be <hi>Lord, Lord,</hi> it will not give an entrance into Chriſt's Kingdom, if the Will of his Father be not done, which is in Heaven, no more will the Doctrine of Truth, Truth beget to God, unleſs it ſpring from the Life and Power of Truth in our ſelves; that is, unleſs we ſo Live as to obtain entrance into God's Kingdom for our ſelves; how ſhall we help to bring our Children thereinto: No, on the contra<g ref="char:EOLhyphen"/>ry, if our Fruits be Evil, our Tree is Corrupt and hinders them, <hi>For he that is not of me,</hi>
+               <pb n="24" facs="tcp:150344:13"/> ſaid Chriſt, <hi>is againſt me, and he that gathereth not with me, ſcat<g ref="char:EOLhyphen"/>tereth abroad:</hi> And of ſuch it may be truly ſaid, they ſuffer not their Children to come unto Chriſt that he might Bleſs them, and tho' not in Words, yet by their Deeds they forbid them; and ſo are unlike the Bleſſed Example of <hi>Abraham,</hi> the Father of the Faithful, of whom it was ſaid, <hi>Gen.</hi> 18.19. <hi>I know him that he will Command his Chil<g ref="char:EOLhyphen"/>dren and his Houſehold after him, and they ſhall keep the Way of the Lord,</hi> &amp;c. Whereby we may obſerve, that <hi>Abraham</hi>'s Care, in this Reſpect, was attended with the Word of Faith, which was a Word of Power and Command, which had a Bleſſed
+<pb n="25" facs="tcp:150344:13"/> Effect, and was the Reward of his Faithfulneſs to God; and if we be like-minded, and follow his Example, the Lord will be with us to Abilitate and Furniſh us for the Effecting the ſame good Work by us, which Spiritual Ability from God, is my Earneſt Deſire we may all wait upon him for, who hath Promiſed to give his good Spi<g ref="char:EOLhyphen"/>rit to them that ask him.</p>
+            <p>And now as the State of little Children, it may be the Opinion of ſome, that they are not Capable of receiving the Help and Benefit of their Pa<g ref="char:EOLhyphen"/>rents Faith, by Reaſon of their Infancy, or ſmall Age and Time; and hence may be the more Indifferent, as to an Early
+<pb n="26" facs="tcp:150344:14"/> Care for their coming to Chriſt, not conſidering them as fit Members of his Kingdom: But ſeeing our Lord Chriſt, in the Days of his Fleſh, hath taught us otherwiſe by his own Bleſſed Example, in the Caſe of the little Children; which accord<g ref="char:EOLhyphen"/>ing to <hi>Luke</hi> 18. were Infants that was brought unto him, when he came into the Coaſts of <hi>Judea</hi> beyond <hi>Jordan,</hi> Mat. 19.13. and Mar. 10.13. <hi>That he might lay his Hands upon them, or touch them;</hi> we Read not that it was for any outward Infirmity they had; wherefore Chriſt's Diſciples (not ſeeing into the Myſtery of the Lord's Ways and Doings) Rebuked them that brought them;
+<pb n="27" facs="tcp:150344:14"/> which, had they been Diſeaſed, we may ſuppoſe they would not have done, becauſe we find not that they did it in ſuch Caſes to thoſe of Riper Years. <hi>But when Jeſus ſaw it,</hi> it is ſaid in <hi>Mark</hi> 10. <hi>he was much diſ<g ref="char:EOLhyphen"/>pleaſed, and ſaid unto them, Suf<g ref="char:EOLhyphen"/>fer the little Children to come unto me, and forbid them not, for of ſuch is the Kingdom of Heaven: Verily I ſay unto you, whoſoever ſhall not receive the Kingdom of Heaven as a little Child, he ſhall not enter therein:</hi> Which Saying of Chriſt is of great Weight, and carries deep Inſtruction to us, if duly Con<g ref="char:EOLhyphen"/>ſidered. It plainly Teaches, not only that Children are Ca<g ref="char:EOLhyphen"/>pable of Receiving the King<g ref="char:EOLhyphen"/>dom, and that their Way of
+<pb n="28" facs="tcp:150344:15"/> Receiving is Right; but that there may be a wrong Way of Receiving of it by thoſe of Riper Years, which ſhuts out of the Kingdom. It therefore greatly Concerns us all, Right<g ref="char:EOLhyphen"/>ly to Conſider how little Chil<g ref="char:EOLhyphen"/>dren Receives the Kingdom, that we may prove and try our ſelves thereby: We all know that little Children are not very Capable of Exerciſing the Rational Faculty of their Souls; conſequently are not ſo Capable, after that manner, to receive the Kingdom, whence we may infer, they had ano<g ref="char:EOLhyphen"/>ther, better, and more excel<g ref="char:EOLhyphen"/>lent Way of Receiving it, ſee<g ref="char:EOLhyphen"/>ing their Way is Commended to us for an Example; for though it be granted, that the
+<pb n="29" facs="tcp:150344:15"/> Knowledge we attained to, by the right Exerciſe of our Senſes and Reaſon, as we grow in Years, is as a <hi>School-Maſter</hi> to bring us unto Chriſt; yet the Right Receiving of him, is by, and into a New and Spiritual Life, that is begotten and quick<g ref="char:EOLhyphen"/>ned in the Soul by him.</p>
+            <p>Now as the Souls of Men and Women are Capable of this New Life, ſo are the Souls even of little Children, being of the ſame Excellent Frame, according to Meaſure, and are endured with a more Divine Capacity of Knowledge, than what is, or may be attained to, by the Rational Faculties only, and that is the Capacity of its New Life it Receives from
+<pb n="30" facs="tcp:150344:16"/> Chriſt, as in a Seed which gives us Spiritual Senſation of the Viſits and Touches of the Spi<g ref="char:EOLhyphen"/>rit, which Influences and Opens the Spiritual Eye and Ear, to See and Hear a Beauty and Harmony in the Divine Na<g ref="char:EOLhyphen"/>ture, and Original Good, which is God; whereto they, <hi>viz.</hi> Little Children, may be Ex<g ref="char:EOLhyphen"/>cited by the Communication of Spirit, in the Reaches forth of the Love and Life of Truth Miniſterially and Inſtrumental<g ref="char:EOLhyphen"/>ly to them, before they are ei<g ref="char:EOLhyphen"/>ther Capable of receiving In<g ref="char:EOLhyphen"/>ſtruction by Word or Doctrine, or giving an Account of that Beautiful Image of Light, and Life, and Truth, they ſee and feel in their Minds; and this is in
+<pb n="31" facs="tcp:150344:16"/> a good Meaſure to be ſeen and obſerved in ſome very little Children, and is the Work of God upon them, and the Way they Receive his Heavenly Kingdom, by Participation of the Bleſſing of the Divine Nature and Spirit of Chriſt for it is ſaid <hi>Mark</hi> 10.16. <hi>That Chriſt took the little Children up in his Arms, put his Hands upon them, and Bleſſed them.</hi> Here it may be obſerved, that we Read not that Chriſt ſpoke any Words unto them; it is Pro<g ref="char:EOLhyphen"/>bable they were not Capable of Receiving much Inſtruction that Way, and yet were Capa<g ref="char:EOLhyphen"/>ble of Receiving the Bleſſing of his Spirit, and the Kingdom therein: And if this was, is, and
+<pb n="32" facs="tcp:150344:17"/> may be ſo with little Children, how much more Senſibly ought it to be Witneſſed and Experienced by thoſe of Riper Years. But if we who are at<g ref="char:EOLhyphen"/>tained to the fulneſs of Years, and extent of the Exerciſe of the Rational Powers and Fa<g ref="char:EOLhyphen"/>culties of our Souls, ſhall con<g ref="char:EOLhyphen"/>tent our ſelves with what we can gather in, of the Con<g ref="char:EOLhyphen"/>victions of Truth upon our Underſtandings, and not Re<g ref="char:EOLhyphen"/>ceive the Kingdom thus as lit<g ref="char:EOLhyphen"/>tle Children, by the Viſits and Touches of Jeſus, which quick<g ref="char:EOLhyphen"/>ens our Souls to God, whereby we come to be Regenerated and Born again of his Spirit, and made Partakers of his Di<g ref="char:EOLhyphen"/>vine Nature, we can in no
+<pb n="33" facs="tcp:150344:17"/> wiſe enter into the Kingdom God; and if we enter not the Kingdom our ſelves, how ſhall we be helpful to bring our Chil<g ref="char:EOLhyphen"/>dren thereinto? No, we can<g ref="char:EOLhyphen"/>not; but, as I ſaid before, are hinderers of them.</p>
+            <p>Great hath been, and is, the Diſadvantage, that the Children of many Friends have and do ly under, for want of the Spi<g ref="char:EOLhyphen"/>ritual Help of their Parents Faith and Exerciſe therein to<g ref="char:EOLhyphen"/>wards God for them, eſpecially for the firſt Times and Years of their Life, wherein they are Capable of Receiving early Im<g ref="char:EOLhyphen"/>preſſions of Good; and for want thereof, the Evil many times takes place, and fills their Minds, and Renders them more Unfit
+<pb n="34" facs="tcp:150344:18"/> and Uncapable for a Right Re<g ref="char:EOLhyphen"/>ceiving of the Kingdom of God; for as they grow in Years, they grow and increaſe in Natural Underſtanding, and Exerciſes of their Rational Powers and Fa<g ref="char:EOLhyphen"/>culties, and get into a Compre<g ref="char:EOLhyphen"/>henſion or Notion of the Truth, which if it be not accompanied with a Divine and Spiritual Senſe and Feeling of the Love and Life of God in the Inner<g ref="char:EOLhyphen"/>moſt part of the Soul, and a Real Conformity thereunto; though they may Receive the outward Knowledge of the Truth in the Firſt Birth, and grow Rich and Wiſe in Profeſſion, they do, and will fall ſhort of entering into God's Kingdom: And this is the Caſe
+<pb n="35" facs="tcp:150344:18"/> of too many of Friends Chil<g ref="char:EOLhyphen"/>dren Profeſſing the Truth; who, perhaps, make an outward Shew of Conformity thereto, but do not Receive it into the Right Ground, the Good and Honeſt Heart; ſo bring not forth Fruit to God's Glory, by which alone the Entrance is ob<g ref="char:EOLhyphen"/>tained into the Kingdom.</p>
+            <p>Having Premiſed theſe things concerning Children, and the neceſſity of a Right and Spiritu<g ref="char:EOLhyphen"/>al Frame in their Parents, for their Profitable Education, I tenderly Recommend it to all Friends that have Families of Servants and Children, that they ſeek the Lord, and wait upon him for Wiſdom and Spi<g ref="char:EOLhyphen"/>ritual Ability in themſelves, that
+<pb n="36" facs="tcp:150344:19"/> they may be enabled to reach to that Degree of Soul in their Servants and Children, where<g ref="char:EOLhyphen"/>in God is felt and witneſſed to Appear and Work for their Re<g ref="char:EOLhyphen"/>demption and Salvation; I have already ſhewed what that is, <hi>viz.</hi> The Souls New and Spiri<g ref="char:EOLhyphen"/>tual Life in God.</p>
+            <p>That which I have further to Communicate and Recom<g ref="char:EOLhyphen"/>mend, and hath been long upon my Mind, for a Remedy to help forward the Work of the Lord in the Souls of all both Parents and Children, hath a ſtrict Rela<g ref="char:EOLhyphen"/>tion to Practice, and that is,</p>
+            <p>For as much as our Children are Capable of being Members of Chriſt's Kingdom by com<g ref="char:EOLhyphen"/>ing unto him; let us uſe all
+<pb n="37" facs="tcp:150344:19"/> our Endeavour to bring them to him, that he may lay his Holy Hand upon them, and Bleſs them, and that whilſt they are little.</p>
+            <p>And for as much as the right doing of this Requires a Spiri<g ref="char:EOLhyphen"/>tual Frame, and Heavenly Ca<g ref="char:EOLhyphen"/>pacity in us, who are Parents, as is before obſerved, and this cannot be otherwiſe attained, unleſs God give it: Let us ſet apart ſome time to wait upon him in our Families, and a<g ref="char:EOLhyphen"/>mongſt our Children for this End, and the Lord will Bleſs our Endeavours, if we be true and ſincere to him therein, and to Excite us the more to ſuch Family-Meetings, Let us Con<g ref="char:EOLhyphen"/>ſider who have great Families
+<pb n="38" facs="tcp:150344:20"/> of Servants and ſmall Children (eſpecially in the Country, where Publick Meetings of the Lord's People and Servants are frequently at great Diſtances) that ſuch ſmall Children can rarely, if at any time, be pre<g ref="char:EOLhyphen"/>ſent; by which means the Op<g ref="char:EOLhyphen"/>portunity and Benefit they ſhould Reap by Meeting with their Dear Parents, in the Aſ<g ref="char:EOLhyphen"/>ſemblies of God's People, is for the firſt Years of their Life loſt, which, if duly Conſidered, is a great Diſadvantage, with Reſpect to its Conſequence, both to Parents and Children; for as <hi>Iron</hi> ſharpens <hi>Iron,</hi> ſo doth the Countenance of a Man his Friend; and if this be true in the General, as is moſt cer<g ref="char:EOLhyphen"/>tain,
+<pb n="39" facs="tcp:150344:20"/> Muſt not the Heavenly Deſire and Influences of good Parents, in the Love of God, for and towards their tender Off-ſpring, at ſuch Times and Seaſons, be greatly Prevailing with him for a Bleſſing, and with them to a Senſe and Love of Truth (which Includes all that is Good) in their tender Years, before the Impreſſions of Evil fill their Minds, as is before obſerved, ſeeing they are and muſt be allowed to be Ca<g ref="char:EOLhyphen"/>pable very Early of Good, as well as of Evil Impreſſions? It is therefore tenderly Recom<g ref="char:EOLhyphen"/>mended, as a Supplement to the afore-mentiond Defect, that ſuch Parents do ſet apart ſome time, as they ſhall ſee meet in
+<pb n="40" facs="tcp:150344:21"/> the Wiſdom of God, to meet with their Children and Ser<g ref="char:EOLhyphen"/>vants in their own Families, to wait upon him for the Bleſſing of his Sweet and Comfortable Preſence, to be with, and a<g ref="char:EOLhyphen"/>mongſt them, which will Ena<g ref="char:EOLhyphen"/>ble them to give Inſtruction in Meekneſs and Wiſdom, and Govern in Righteouſneſs and Truth, to the Quickening and Nouriſhing the tender Seed of God in their Children, and Edi<g ref="char:EOLhyphen"/>fication of all therein, to the Praiſe of his Name, that hath Called us; and to the Peace, Joy and Happineſs of our Souls for ever.</p>
+            <p>And now, as to you little Children, the Off-ſpring of Be<g ref="char:EOLhyphen"/>lieving Parents, who have but
+<pb n="41" facs="tcp:150344:21"/> little Natural Knowledge, you are nevertheleſs Beloved of God, not only becauſe he Made and Created you, but for the ſake of his only Beloved Son Chirſt Jeſus, whom he ſent in<g ref="char:EOLhyphen"/>to the World to ſave and deli<g ref="char:EOLhyphen"/>ver you from Sin and Death, and thereby make you his Chil<g ref="char:EOLhyphen"/>dren; who alſo himſelf Loves you, in that he gave himſelf to Dye for you, that he might Re<g ref="char:EOLhyphen"/>deem you to God, whereby you are beheld Innocent and Lovely in his ſight, who de<g ref="char:EOLhyphen"/>lights to Bleſs you, and knows how to Communicate to you Spiritual Knowledge, and make you fit for his Kingdom, who ſaid, <hi>Suffer little Children to come unto me, and forbid them not,
+<pb n="42" facs="tcp:150344:22"/> for of ſuch is the Kingdom of Heaven.</hi> Thus whilſt you are Innocent, you are Beloved of God and of Chriſt, and are alſo Beloved of his People, and are Accounted and Eſteemed of them good little Friends, if you continue in your Innocency, and love God in your Minds, who have thus Manifeſted his Love to you, tho' you can Speak but little of him, you may have a Senſe and Feeling of him by his Viſits and Touches of you, by his Spirit, Life and Love in your Souls, and you may ſee and be<g ref="char:EOLhyphen"/>hold him in his Appearance in your Parents and others, whoſe Souls Loves God, and whoſe Minds are Inward and Spiritual to him, they will have a Sweet
+<pb n="43" facs="tcp:150344:22"/> and Heavenly Influence upon you, to a Love of Spiritual-mindedneſs, Innocency, Meek<g ref="char:EOLhyphen"/>neſs and Sobriety, with other Heavenly Virtues, whereby you may come to know God, by theſe Fruits of his Spirit, and Love him and his Appearance, and Manifeſtation of his Son <hi>Chriſt Jeſus</hi> in you, in Holineſs, Righteouſneſs and Truth, to the Sanctifying your Hearts and Minds, that as you grow in Years, and increaſe in Natural Knowledge, you may grow and increaſe in Divine and Spiritual Knowledge, by being made Par<g ref="char:EOLhyphen"/>takers of the Bleſſing of Chriſt that Quickens your Souls to God; ſo will your Parents take Delight in you<g ref="char:punc">▪</g> as they find you
+<pb n="44" facs="tcp:150344:23"/> thus to Delight in Go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which will Incline you to love all Opportuni<g ref="char:EOLhyphen"/>ties to be with the Lord's People, to meet with them to wait upon him, for the Viſits and Touches of his Spirit, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t you may know Chriſt to come to you, and you to come to him, and to be taken up into his Arms, and Receive the Bleſſing from him, who will de<g ref="char:EOLhyphen"/>light to fill your Souls with his Goodneſs, whereby your Love will be renewed to him, and you fitted for his Heavenly Kingdom, and enter thereinto; that this may be the Care and Portion of all God's People and Children; Is the Hear<g ref="char:EOLhyphen"/>ty Deſire of your Friend that Loves you, and Wiſhes the Well-fare of all, both Parents and Children.</p>
+            <closer>
+               <signed>R. V.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA</head>
+            <p>Pag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Read <hi>Rules.</hi>
+            </p>
+            <trailer>FINI<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </trailer>
+            <pb facs="tcp:150344:23"/>
+         </div>
+      </back>
+   </text>
+</TEI>
